@@ -1,12 +1,29 @@
-# Pattern Generator in C++
+# Image Filter using Verilog
 
 ## 1. Overview
-![Overview](https://github.com/kyun1016/Pattern_Generator_in_CPP/assets/42373004/1d271730-9e2f-4747-b657-be8d410dd739)
+![image_filter_IP_Top](https://github.com/kyun1016/Image_Filter_using_verilog/assets/42373004/fdd291ee-5951-432f-9476-8999b4adfa48)
 
-## 2. How to use
-The operating method can be referenced in the 'main.cpp'
+## 2. APB Interface
+![apb_write](https://github.com/kyun1016/Image_Filter_using_verilog/assets/42373004/57e08b52-17d7-4686-abb8-4a9dee54a037)
+![apb_interface](https://github.com/kyun1016/Image_Filter_using_verilog/assets/42373004/d4818263-ea2e-432f-bd78-faefbae33f0c)
 
-## 3. Output file example
-![mannuel](https://github.com/kyun1016/Pattern_Generator_in_CPP/assets/42373004/159fcd68-7f9a-440d-a936-7a8757a05b53)
+## 3. Main Operate
+TBD
 
-![H_RAMP_PIXEL2](https://github.com/kyun1016/Pattern_Generator_in_CPP/assets/42373004/b99d12e8-a106-4263-b647-9931d3820b60)
+### 3.1 RGB to YUV
+TBD
+
+### 3.2 Filter 1
+TBD
+
+### 3.3 Filter 2
+TBD
+
+### 3.4 YUV to RGB
+TBD
+
+## 4. How to use
+TBD
+
+## 5. Output file example
+TBD
